@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Quene/Quene.vcxproj" Id="59a251ca-e167-4c73-b32d-b1076471324f" />
+  <Project Path="Add/Add.vcxproj" Id="9bca2728-8afa-4513-a09f-04c7beb3b6f4" />
 </Solution>
